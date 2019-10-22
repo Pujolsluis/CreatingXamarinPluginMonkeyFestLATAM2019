@@ -13,6 +13,9 @@
 - [Android.Support.v4](http://bit.ly/xamarin-android-support) - Xamarin
 - [Nuget Package Explorer](http://bit.ly/current-activity) - Oren Novotny
 
+## Slides
+- [Creating a Xamarin Plugin - Pujolsluis](https://github.com/Pujolsluis/CreatingXamarinPluginMonkeyFestLATAM2019/blob/master/Creating%20Xamarin%20Plugins%20Workshop.pdf) - Luis Pujols
+
 ## Demo Plugin
 
 
